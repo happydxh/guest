@@ -1,0 +1,46 @@
+#register{
+	width:auto;
+	height:600px;
+	border:2px solid #ccc;
+	font-size:12px;
+}
+#register h2{
+	text-indent: 0;
+	text-align: center;
+}
+#register .beizhu{
+	margin: 20px 0 10px 0;
+	text-align: center;
+	font-weight: bold;
+}
+#zhuce{
+	
+}
+#zhuce .wrap{
+	margin-bottom: 10px;
+	margin-left: 300px;
+}
+#zhuce .wrapsex .face{
+	margin: 0 0 0 100px;
+	cursor: pointer;
+}
+#zhuce .wrap .text{
+	width: 200px;
+	height: 19px;
+	border: 1px dotted #333;
+}
+#zhuce .wrap .yzm{
+	width: 60px;
+}
+#zhuce .wrap img#yzmimg{
+	cursor: pointer;
+}
+#zhuce .wrap .submit{
+	margin: 0 0 0 130px;
+	width:60px;
+	height:22px;
+	line-height: 18px;
+	border:1px dashed #333;
+	background:#fff;
+	cursor:pointer;
+}

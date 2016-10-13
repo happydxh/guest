@@ -1,0 +1,26 @@
+#member #member_main dl dd input.text {
+	width:220px;
+	height:19px;
+	border:1px dashed #333;
+	background:#fff;
+}
+#member #member_main dl dd input.yzm {
+	width:60px;
+}
+#member #member_main dl dd img#code {
+	cursor:pointer;
+}
+#member #member_main dl dd input.submit {
+	width:60px;
+	height:22px;
+	border:1px dashed #333;
+	background:#fff;
+	cursor:pointer;
+}
+#member #member_main dl dd p textarea {
+	width:220px;
+	height:60px;
+	border:1px dashed #333;
+	background:#fff;
+	margin:5px 0 0 70px;
+}
